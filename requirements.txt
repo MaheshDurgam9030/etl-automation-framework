@@ -1,0 +1,6 @@
+loguru==0.6.0          # For structured logging
+pytest==7.4.0          # For unit testing
+black==23.9.1          # For code formatting
+flake8==6.1.0          # For linting
+python-dotenv==1.0.0   # For environment variables (optional)
+pandas==1.5.3          # For CSV handling (optional)
